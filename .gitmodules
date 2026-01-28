@@ -73,3 +73,12 @@
 [submodule "BadUSB/BadGPT"]
 	path = BadUSB/BadGPT
 	url = https://github.com/ooovenenoso/BadUSB-GPT
+[submodule "Wav_Player/RTTTL"]
+	path = Wav_Player/RTTTL
+	url = https://github.com/neverfa11ing/FlipperMusicRTTTL.git
+[submodule "subghz/Customer_Assistance_Buttons/Jimi-Cust-Buttons"]
+	path = subghz/Customer_Assistance_Buttons/Jimi-Cust-Buttons
+	url = https://github.com/jimilinuxguy/customer-assistance-buttons-sdr
+[submodule "subghz/Vehicles/TPMS-Flipper"]
+	path = subghz/Vehicles/TPMS-Flipper
+	url = https://github.com/Crsarmv7l/TPMS-Flipper
